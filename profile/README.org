@@ -36,7 +36,7 @@ We enable all participants to explore, create, and share software freely, demons
 ------
 
 *(es)*
-*Cyber Code Syndicate (CCS)* es una comunidad inclusiva dedicada a impulsar la *libertad del software* y el conocimiento abierto. La inclusión, en este contexto, se refiere a construir Software Libre que pueda coexistir e integrarse con software de Código Abierto y propietario, eliminando la exclusividad impuesta por el dogmatismo de las licencias. Compartimos recursos técnicos, publicamos investigaciones y artículos, y organizamos eventos enfocados en el software y la creación digital. CCS promueve el desarrollo ético, la autonomía personal y la adopción de software confiable en la práctica cotidiana.
+*Cyber Code Syndicate (CCS)* es una comunidad inclusiva dedicada a impulsar la *libertad del software* y el conocimiento abierto. La inclusión, en este contexto, se refiere a construir Software Libre que pueda coexistir e integrarse con software de Código Abierto y Propietario, eliminando la exclusividad impuesta por el dogmatismo de las licencias. Compartimos recursos técnicos, publicamos investigaciones y artículos, y organizamos eventos enfocados en el software y la creación digital. CCS promueve el desarrollo ético, la autonomía personal y la adopción de software confiable en la práctica cotidiana.
 
 Nuestra filosofía:
 =Libertad, Colaboración, Documentación y Autonomía.=

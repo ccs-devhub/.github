@@ -1,0 +1,60 @@
+#+TITLE: Cyber Code Syndicate (CCS)
+#+AUTHOR: Cristian D. Moreno - Kyonax~\orcidlink{0009-0006-4459-5538}\affiliation{Senior Full-Stack Engineer - CCS}
+#+EMAIL: kyonax.corp@gmail.com
+#+DATE: Dec 17, 2025
+#+PROJECT: Cyber Code Syndicate
+#+LANGUAGE: en/es
+#+SOURCE_URL: https://github.com/ccs-devhub
+#+OPTIONS: toc:nil num:nil
+
+*(en)*
+*Cyber Code Syndicate (CCS)* is an inclusive developer community advancing *Free Software* principles and open knowledge sharing. We create *Free/Open Source Software*, share knowledge, publish articles, conduct research, organize events, and focus on all aspects of software development and digital creation. Our main goal is to encourage the adoption of *Free Software* and promote ethical software practices.
+
+*Cyber Code Syndicate (CCS)* is an inclusive community dedicated to advancing *software freedom* and open knowledge. We develop *Free/Open Source Software*, share technical resources, publish research and articles, and organize events centered on software and digital creations. CCS encourages ethical development, personal autonomy, and the adoption of trustworthy software in everyday practice.
+
+Our philosophy:
+=Freedom, Collaboration, Documentation, and Autonomy.=
+We empower everyone to learn, modify, and share software, fostering an environment of ethical development and open knowledge.
+
+* Focus
+- Promoting *Free Software* principles and ethical software development in both *English* and *Spanish*-speaking communities.
+- Developing *Free/Open Source Software* projects, publishing tutorials and articles, and providing accessible documentation for all skill levels.
+- Encouraging *collaboration* across platforms and paradigms, including integration of *Free Software* with *Open Source* and *Proprietary* solutions.
+- Supporting *continuous learning*, transparent practices, and open communication among our members.
+
+* Goals
+1. Broaden access to trustworthy software through open, inclusive participation.
+2. Champion ethical standards in software, respecting user privacy, autonomy, and transparent development practices.
+3. Offer high-quality resources like guides, collaborative projects, research, and hands-on learning opportunities.
+4. Create tools and solutions that respect personal choice and support innovation without barriers.
+
+* Vision
+*Cyber Code Syndicate (CCS)* reimagines software freedom for today's world, inspiring meaningful collaboration and community-driven progress.
+
+We enable all participants to explore, create, and share—realizing software freedom through open knowledge, inclusive community, and ethical development.
+
+------
+
+*(es)*
+*Cyber Code Syndicate (CCS)* es una comunidad inclusiva dedicada a impulsar la *libertad del software* y el conocimiento abierto. Desarrollamos *Software libre* y de *Código Abierto*, compartimos recursos técnicos, publicamos investigaciones y artículos, y organizamos eventos enfocados en el software y la creación digital. CCS promueve el desarrollo ético, la autonomía personal y la adopción de software confiable en la práctica cotidiana.
+
+Nuestra filosofía:
+=Libertad, Colaboración, Documentación y Autonomía.=
+Empoderamos a todos para aprender, modificar y compartir software, promoviendo un entorno de desarrollo ético y conocimiento abierto.
+
+* Enfoque
+- Promover los principios del *Software Libre* y el desarrollo ético de software en comunidades de habla inglesa e hispana.
+- Desarrollar proyectos de *Software Libre y de Código Abierto*, publicar tutoriales y artículos, y ofrecer documentación accesible para todos los niveles de experiencia.
+- Fomentar la *colaboración* entre plataformas y paradigmas, permitiendo la integración del *Software Libre* con soluciones de código abierto y propietarias.
+- Impulsar el *aprendizaje continuo*, buenas prácticas de transparencia y una comunicación abierta entre los miembros.
+
+* Metas
+1. Ampliar el acceso a software confiable a través de una participación abierta e inclusiva.
+2. Defender estándares éticos en el software, respetando la privacidad del usuario, la autonomía y las prácticas de desarrollo transparente.
+3. Ofrecer recursos de alta calidad: guías, proyectos colaborativos, investigación y oportunidades de aprendizaje práctico.
+4. Crear herramientas y soluciones que respeten la elección personal y apoyen la innovación sin barreras.
+
+* Visión
+*Cyber Code Syndicate (CCS)* reinventa la libertad del software para el mundo actual, inspirando colaboración significativa y progreso impulsado por la comunidad.
+
+Permitimos que todas las personas exploren, creen y compartan haciendo realidad la libertad del software a través del conocimiento abierto, una comunidad inclusiva y el desarrollo ético.

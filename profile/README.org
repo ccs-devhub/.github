@@ -8,8 +8,6 @@
 #+OPTIONS: toc:nil num:nil
 
 *(en)*
-*Cyber Code Syndicate (CCS)* is an inclusive developer community advancing *Free Software* principles and open knowledge sharing. We create *Free/Open Source Software*, share knowledge, publish articles, conduct research, organize events, and focus on all aspects of software development and digital creation. Our main goal is to encourage the adoption of *Free Software* and promote ethical software practices.
-
 *Cyber Code Syndicate (CCS)* is an inclusive community dedicated to advancing *software freedom* and open knowledge. We develop *Free/Open Source Software*, share technical resources, publish research and articles, and organize events centered on software and digital creations. CCS encourages ethical development, personal autonomy, and the adoption of trustworthy software in everyday practice.
 
 Our philosophy:

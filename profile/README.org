@@ -8,16 +8,18 @@
 #+OPTIONS: toc:nil num:nil
 
 *(en)*
-*Cyber Code Syndicate (CCS)* is an inclusive community dedicated to advancing *software freedom* and open knowledge. We develop *Free/Open Source Software*, share technical resources, publish research and articles, and organize events centered on software and digital creations. CCS encourages ethical development, personal autonomy, and the adoption of trustworthy software in everyday practice.
+*Cyber Code Syndicate (CCS)* is an inclusive community dedicated to advancing *software freedom* and open knowledge. Inclusion, in this context, refers to building Free Software that can coexist and integrate with Open Source and Proprietary software, removing exclusivity imposed by licensing dogma. We share technical resources, publish research and articles, and organize events centered on software and digital creations. CCS encourages ethical development, personal autonomy, and the adoption of trustworthy software in everyday practice.
 
 Our philosophy:
 =Freedom, Collaboration, Documentation, and Autonomy.=
 We empower everyone to learn, modify, and share software, fostering an environment of ethical development and open knowledge.
 
+CCS is founded on the core principles promoted by the *Free Software movement*. However, it maintains a critical stance toward the historically dogmatic application of those principles, particularly where licensing restrictions prevent interoperability. The community focuses on preserving user freedom while enabling practical integration across software ecosystems.
+
 * Focus
 - Promoting *Free Software* principles and ethical software development in both *English* and *Spanish*-speaking communities.
 - Developing *Free/Open Source Software* projects, publishing tutorials and articles, and providing accessible documentation for all skill levels.
-- Encouraging *collaboration* across platforms and paradigms, including integration of *Free Software* with *Open Source* and *Proprietary* solutions.
+- Encouraging *collaboration* and interoperability across platforms and paradigms, explicitly supporting the integration of *Free Software* with *Open Source* and *Proprietary* software without enforcing exclusivity.
 - Supporting *continuous learning*, transparent practices, and open communication among our members.
 
 * Goals
@@ -29,21 +31,23 @@ We empower everyone to learn, modify, and share software, fostering an environme
 * Vision
 *Cyber Code Syndicate (CCS)* reimagines software freedom for today's world, inspiring meaningful collaboration and community-driven progress.
 
-We enable all participants to explore, create, and share realizing software freedom through open knowledge, inclusive community, and ethical development.
+We enable all participants to explore, create, and share software freely, demonstrating that software freedom can exist alongside diverse licensing models through ethical development and open knowledge.
 
 ------
 
 *(es)*
-*Cyber Code Syndicate (CCS)* es una comunidad inclusiva dedicada a impulsar la *libertad del software* y el conocimiento abierto. Desarrollamos *Software libre* y de *Código Abierto*, compartimos recursos técnicos, publicamos investigaciones y artículos, y organizamos eventos enfocados en el software y la creación digital. CCS promueve el desarrollo ético, la autonomía personal y la adopción de software confiable en la práctica cotidiana.
+*Cyber Code Syndicate (CCS)* es una comunidad inclusiva dedicada a impulsar la *libertad del software* y el conocimiento abierto. La inclusión, en este contexto, se refiere a construir Software Libre que pueda coexistir e integrarse con software de Código Abierto y propietario, eliminando la exclusividad impuesta por el dogmatismo de las licencias. Compartimos recursos técnicos, publicamos investigaciones y artículos, y organizamos eventos enfocados en el software y la creación digital. CCS promueve el desarrollo ético, la autonomía personal y la adopción de software confiable en la práctica cotidiana.
 
 Nuestra filosofía:
 =Libertad, Colaboración, Documentación y Autonomía.=
 Empoderamos a todos para aprender, modificar y compartir software, promoviendo un entorno de desarrollo ético y conocimiento abierto.
 
+CCS se fundamenta en los principios centrales promovidos por el movimiento de *Software Libre*. Sin embargo, mantiene una postura crítica frente a la aplicación históricamente dogmática de esos principios, especialmente cuando las restricciones de licencias impiden la interoperabilidad. La comunidad se enfoca en preservar la libertad del usuario mientras promueve la integración práctica entre diferentes ecosistemas de software.
+
 * Enfoque
 - Promover los principios del *Software Libre* y el desarrollo ético de software en comunidades de habla inglesa e hispana.
 - Desarrollar proyectos de *Software Libre y de Código Abierto*, publicar tutoriales y artículos, y ofrecer documentación accesible para todos los niveles de experiencia.
-- Fomentar la *colaboración* entre plataformas y paradigmas, permitiendo la integración del *Software Libre* con soluciones de código abierto y propietarias.
+- Fomentar la *colaboración* y la interoperabilidad entre plataformas y paradigmas, apoyando explícitamente la integración de *Software Libre* con software de *Código Abierto* y *Propietario*, sin imponer exclusividad.
 - Impulsar el *aprendizaje continuo*, buenas prácticas de transparencia y una comunicación abierta entre los miembros.
 
 * Metas
@@ -55,4 +59,4 @@ Empoderamos a todos para aprender, modificar y compartir software, promoviendo u
 * Visión
 *Cyber Code Syndicate (CCS)* reinventa la libertad del software para el mundo actual, inspirando colaboración significativa y progreso impulsado por la comunidad.
 
-Permitimos que todas las personas exploren, creen y compartan haciendo realidad la libertad del software a través del conocimiento abierto, una comunidad inclusiva y el desarrollo ético.
+Permitimos que todos los participantes exploren, creen y compartan software libremente, demostrando que la libertad del software puede coexistir con diversos modelos de licenciamiento mediante el desarrollo ético y el conocimiento abierto.

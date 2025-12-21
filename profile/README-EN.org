@@ -18,7 +18,7 @@
 #+END_QUOTE
 
 * Guiding principles for software development (summary)
-These principles guide how we *design, build, and evaluate software* within *CCS*. They are not *mandatory rules*, but *practical criteria* for creating *responsible, people-centered technology*. For a more detailed and contextual explanation, see the [[#community_paper][community paper]].
+These principles guide how we *design, build, and evaluate software* within *CCS*. They are not *mandatory rules*, but *practical criteria* for creating *responsible, people-centered technology*. For a more detailed and contextual explanation, see the [[#further-reading][Community Paper]].
 
 - Software must *serve people*, never exploit them.
 - *Privacy by default* and responsible *data minimization*.
@@ -41,7 +41,7 @@ To fulfill this *mission*, the *community*:
 
 * How to participate
 *CCS* is an *open and flexible community*. You can:
-- *Start* by reading the [[#community_paper][main document/paper]] and the *code of conduct*.
+- *Start* by reading the [[#further-reading][Community Paper]] and the *code of conduct*.
 - *Explore* the available projects.
 - *Propose* ideas, *open issues*, offer *reviews*, or suggest *workshop topics*.
 - *Join* events or *request mentorship* if you are looking for *practical guidance*.
@@ -57,9 +57,6 @@ To fulfill this *mission*, the *community*:
 - *Content* and *projects* may be released under *different licenses* depending on the author or project. We *recommend* licenses that promote *transparency* and *reuse*, while always respecting *contributors’ freedom of choice*.
 
 * Further reading
-:PROPERTIES:
-:CUSTOM_ID: community_paper
-:END:
 Here you will find detailed information about the community’s *approach*, *mission*, and *principles*, as well as the conceptual framework that guides how we *build and collaborate* on software:
 
 - *Cristian D. Moreno – Kyonax.* (2025). /Cyber Code Syndicate (CCS): Building an Ethical and Inclusive Coding Community / Construyendo una Comunidad de Programación Ética e Inclusiva/. https://doi.org/10.5281/zenodo.17994539

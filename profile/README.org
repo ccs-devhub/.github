@@ -9,7 +9,7 @@
 #+OPTIONS: toc:nil num:nil
 #+VERSION: v1.0
 
-[[https://doi.org/10.5281/zenodo.17994539][https://zenodo.org/badge/DOI/10.5281/zenodo.17994539.svg]] [[https://github.com/ccs-devhub][https://img.shields.io/github/followers/ccs-devhub]]
+[[https://doi.org/10.5281/zenodo.17994539][https://zenodo.org/badge/DOI/10.5281/zenodo.17994539.svg]]  [[https://github.com/ccs-devhub][https://img.shields.io/github/followers/ccs-devhub.png]] [[https://github.com/ccs-devhub][https://img.shields.io/github/stars/ccs-devhub.png]] [[https://x.com/ccs_devhub][https://img.shields.io/twitter/follow/ccs_devhub.png]]
 
 *Cyber Code Syndicate (CCS)* es una comunidad colaborativa de aprendizaje y desarrollo que impulsa prácticas éticas en el software, con foco principal en desarrolladores hispanohablantes. Enseñamos a *programar, documentar y construir* proyectos útiles combinando educación práctica, mentoría y desarrollo abierto /(Free y Open Source)/. Promovemos la autonomía, la privacidad y la transparencia, e invitamos a cualquier persona interesada, desde principiantes hasta profesionales a participar, contribuir y aplicar *principios éticos* en entornos de Software tanto libres como mixtos o propietarios.
 
@@ -18,7 +18,7 @@
 #+END_QUOTE
 
 * Principios guía para el desarrollo de software (resumen)
-Estos principios orientan cómo *diseñamos, construimos y evaluamos software* dentro de *CCS*. No son *reglas obligatorias*, sino *criterios prácticos* para crear tecnología *responsable y centrada en las personas*. Para una explicación más detallada y contextualizada, dirígete al [[#community_paper][Paper de la comunidad]].
+Estos principios orientan cómo *diseñamos, construimos y evaluamos software* dentro de *CCS*. No son *reglas obligatorias*, sino *criterios prácticos* para crear tecnología *responsable y centrada en las personas*. Para una explicación más detallada y contextualizada, dirígete al [[#recursos--lectura-adicional][Paper de la Comunidad]].
 
 - El software debe *servir a las personas*, nunca explotarlas.
 - *Privacidad por defecto* y minimización responsable de datos.
@@ -41,7 +41,7 @@ Para cumplir esta *misión*, la *comunidad*:
 
 * Cómo participar
 *CCS* es una *comunidad abierta y flexible*. Puedes:
-- *Comenzar* leyendo el [[#community_paper][documento/paper principal]] y el *código de conducta*.
+- *Comenzar* leyendo el [[#recursos--lectura-adicional][Paper de la Comunidad]] y el *código de conducta*.
 - *Explorar* los proyectos disponibles.
 - *Proponer* ideas, *abrir issues*, ofrecer *revisiones* o sugerir *temas para talleres*.
 - *Unirte* a eventos o *solicitar mentoría* si buscas *acompañamiento práctico*.
@@ -57,9 +57,6 @@ Para cumplir esta *misión*, la *comunidad*:
 - Los *contenidos* y *proyectos* pueden publicarse bajo *distintas licencias* según el autor o proyecto. *Recomendamos* licencias que fomenten la *transparencia* y la *reutilización*, respetando siempre la *libertad de elección* de los contribuidores.
 
 * Recursos & Lectura adicional
-:PROPERTIES:
-:CUSTOM_ID: community_paper
-:END:
 Aquí encontrarás información detallada sobre el *enfoque*, la *misión* y los *principios* de la comunidad, así como el marco conceptual que guía cómo *construimos y colaboramos* en el software:
 
 - *Cristian D. Moreno – Kyonax.* (2025). /Cyber Code Syndicate (CCS): Building an Ethical and Inclusive Coding Community / Construyendo una Comunidad de Programación Ética e Inclusiva/. https://doi.org/10.5281/zenodo.17994539

@@ -1,0 +1,71 @@
+#+TITLE: Cyber Code Syndicate (CCS)
+#+AUTHOR: Cristian D. Moreno - Kyonax~\orcidlink{0009-0006-4459-5538}\affiliation{Senior Full-Stack Engineer - CCS}
+#+EMAIL: kyonax.corp@gmail.com
+#+DATE: Dec 17, 2025
+#+PROJECT: Cyber Code Syndicate
+#+LANGUAGE: en
+#+SOURCE_URL: https://github.com/ccs-devhub
+#+LAST_UPDATE: Dec 20, 2025
+#+OPTIONS: toc:nil num:nil
+#+VERSION: v1.0
+
+[[https://doi.org/10.5281/zenodo.17994539][https://zenodo.org/badge/DOI/10.5281/zenodo.17994539.svg]] [[https://github.com/ccs-devhub][https://img.shields.io/github/followers/ccs-devhub]]
+
+*Cyber Code Syndicate (CCS)* is a collaborative learning and development community that promotes *ethical software practices*, with a primary focus on *Spanish-speaking developers*. We teach how to *code, document, and build* useful projects by combining *hands-on education*, *mentorship*, and *open development* /(Free and Open Source)/. We promote *autonomy*, *privacy*, and *transparency*, and welcome anyone interested — from beginners to experienced professionals — to participate, contribute, and apply *ethical principles* in software environments that are *free*, *mixed*, or *proprietary*.
+
+#+BEGIN_QUOTE
+="Freedom, Collaboration, Documentation, and Autonomy."= — CCS guiding principle.
+#+END_QUOTE
+
+* Guiding principles for software development (summary)
+These principles guide how we *design, build, and evaluate software* within *CCS*. They are not *mandatory rules*, but *practical criteria* for creating *responsible, people-centered technology*. For a more detailed and contextual explanation, see the [[#community_paper][community paper]].
+
+- Software must *serve people*, never exploit them.
+- *Privacy by default* and responsible *data minimization*.
+- *Transparency* and *auditability* of both code and technical decisions.
+- *Freedom* to use, study, modify, and share software.
+- *Interoperability* and rejection of *technological lock-in* or forced dependencies.
+- *Ethics* act as *practical guidance*, not enforcement; we *lead by example*.
+
+* Mission
+To give *practical form* to these *principles* by making technical learning and *ethical software development* both *accessible and applicable*. *CCS* focuses on providing *resources in Spanish*, *learning spaces*, and *community-driven projects* that enable people to *learn by doing*, *collaborate openly*, and *make informed decisions* when building software.
+
+* What we do
+To fulfill this *mission*, the *community*:
+- *Translates* and *contextualizes* relevant guides and *technical documentation*.
+- *Organizes* talks, workshops, and *mentorship sessions* with a practical focus.
+- *Develops* and *maintains* *open projects* oriented toward *collaborative learning*.
+- *Publishes* articles and *educational materials* in Spanish.
+- *Promotes* *interoperability* and *freedom of technological choice*.
+- *Supports* *Free Software* and *Open Source* projects through *community collaboration*.
+
+* How to participate
+*CCS* is an *open and flexible community*. You can:
+- *Start* by reading the [[#community_paper][main document/paper]] and the *code of conduct*.
+- *Explore* the available projects.
+- *Propose* ideas, *open issues*, offer *reviews*, or suggest *workshop topics*.
+- *Join* events or *request mentorship* if you are looking for *practical guidance*.
+
+* Goals
+1. *Expand* access to *high-quality materials* in Spanish.
+2. *Offer* a *sustainable and replicable mentorship program*.
+3. *Develop* *educational projects* that serve as *practical references*.
+4. *Facilitate* the *responsible adoption* of software in *mixed contexts* /(open/proprietary)/.
+
+* Governance and licensing
+- *CCS* is an *open and collaborative community*. *Decisions* are *public* and recorded in *repositories and forums*.
+- *Content* and *projects* may be released under *different licenses* depending on the author or project. We *recommend* licenses that promote *transparency* and *reuse*, while always respecting *contributors’ freedom of choice*.
+
+* Further reading
+:PROPERTIES:
+:CUSTOM_ID: community_paper
+:END:
+Here you will find detailed information about the community’s *approach*, *mission*, and *principles*, as well as the conceptual framework that guides how we *build and collaborate* on software:
+
+- *Cristian D. Moreno – Kyonax.* (2025). /Cyber Code Syndicate (CCS): Building an Ethical and Inclusive Coding Community / Construyendo una Comunidad de Programación Ética e Inclusiva/. https://doi.org/10.5281/zenodo.17994539
+- This document is available in *spanish*: [[./README.org][README (Spanish version)]].
+
+* Closing / Invitation
+*Cyber Code Syndicate* is an *open space* to *learn*, *build*, and *improve software* in a *conscious and responsible* way. If you are interested in *learning by doing*, *sharing knowledge*, *collaborating with others*, and *developing software* that respects the people who use it, you are *welcome to participate*.
+
+Regardless of your *experience level* or the *tools* you use, you can *learn*, *propose ideas*, *contribute to projects*, *improve documentation*, or simply *take part in the conversation*. *CCS* exists to *support the technical and ethical growth* of those who build technology.

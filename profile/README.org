@@ -3,60 +3,69 @@
 #+EMAIL: kyonax.corp@gmail.com
 #+DATE: Dec 17, 2025
 #+PROJECT: Cyber Code Syndicate
-#+LANGUAGE: en/es
+#+LANGUAGE: es
 #+SOURCE_URL: https://github.com/ccs-devhub
+#+LAST_UPDATE: Dec 20, 2025
 #+OPTIONS: toc:nil num:nil
+#+VERSION: v1.0
 
-*(en)*
-*Cyber Code Syndicate (CCS)* is an inclusive community dedicated to advancing *software freedom* and open knowledge. Inclusion, in this context, refers to building Free Software that can coexist and integrate with Open Source and Proprietary software, removing exclusivity imposed by licensing dogma. We share technical resources, publish research and articles, and organize events centered on software and digital creations. CCS encourages ethical development, personal autonomy, and the adoption of trustworthy software in everyday practice.
+[[https://doi.org/10.5281/zenodo.17994539][https://zenodo.org/badge/DOI/10.5281/zenodo.17994539.svg]] [[https://github.com/ccs-devhub][https://img.shields.io/github/followers/ccs-devhub]]
 
-Our philosophy:
-=Freedom, Collaboration, Documentation, and Autonomy.=
-We empower everyone to learn, modify, and share software, fostering an environment of ethical development and open knowledge.
+*Cyber Code Syndicate (CCS)* es una comunidad colaborativa de aprendizaje y desarrollo que impulsa prácticas éticas en el software, con foco principal en desarrolladores hispanohablantes. Enseñamos a *programar, documentar y construir* proyectos útiles combinando educación práctica, mentoría y desarrollo abierto /(Free y Open Source)/. Promovemos la autonomía, la privacidad y la transparencia, e invitamos a cualquier persona interesada, desde principiantes hasta profesionales a participar, contribuir y aplicar *principios éticos* en entornos de Software tanto libres como mixtos o propietarios.
 
-CCS is founded on the core principles promoted by the *Free Software movement*. However, it maintains a critical stance toward the historically dogmatic application of those principles, particularly where licensing restrictions prevent interoperability. The community focuses on preserving user freedom while enabling practical integration across software ecosystems.
+#+BEGIN_QUOTE
+="Libertad, Colaboración, Documentación y Autonomía."= — Principio orientador de CCS.
+#+END_QUOTE
 
-* Focus
-- Promoting *Free Software* principles and ethical software development in both *English* and *Spanish*-speaking communities.
-- Developing *Free/Open Source Software* projects, publishing tutorials and articles, and providing accessible documentation for all skill levels.
-- Encouraging *collaboration* and interoperability across platforms and paradigms, explicitly supporting the integration of *Free Software* with *Open Source* and *Proprietary* software without enforcing exclusivity.
-- Supporting *continuous learning*, transparent practices, and open communication among our members.
+* Principios guía para el desarrollo de software (resumen)
+Estos principios orientan cómo *diseñamos, construimos y evaluamos software* dentro de *CCS*. No son *reglas obligatorias*, sino *criterios prácticos* para crear tecnología *responsable y centrada en las personas*. Para una explicación más detallada y contextualizada, dirígete al [[#community_paper][Paper de la comunidad]].
 
-* Goals
-1. Broaden access to trustworthy software through open, inclusive participation.
-2. Champion ethical standards in software, respecting user privacy, autonomy, and transparent development practices.
-3. Offer high-quality resources like guides, collaborative projects, research, and hands-on learning opportunities.
-4. Create tools and solutions that respect personal choice and support innovation without barriers.
+- El software debe *servir a las personas*, nunca explotarlas.
+- *Privacidad por defecto* y minimización responsable de datos.
+- *Transparencia* y *auditabilidad* tanto del código como de las decisiones técnicas.
+- *Libertad* para usar, estudiar, modificar y compartir software.
+- *Interoperabilidad* y rechazo al *bloqueo tecnológico* o dependencias forzadas.
+- La *ética* actúa como *orientación práctica*, no como imposición, lideramos mediante el ejemplo.
 
-* Vision
-*Cyber Code Syndicate (CCS)* reimagines software freedom for today's world, inspiring meaningful collaboration and community-driven progress.
+* Misión
+Dar forma *práctica* a estos *principios* haciendo que el aprendizaje técnico y el desarrollo *ético del software* sean *accesibles y aplicables*. *CCS* se centra en facilitar *recursos en español*, *espacios de formación* y *proyectos comunitarios* que permitan *aprender haciendo*, *colaborar abiertamente* y *tomar decisiones informadas* al construir software.
 
-We enable all participants to explore, create, and share software freely, demonstrating that software freedom can exist alongside diverse licensing models through ethical development and open knowledge.
+* Qué hacemos
+Para cumplir esta *misión*, la *comunidad*:
+- *Traduce* y *contextualiza* guías y *documentación técnica* relevante.
+- *Organiza* charlas, talleres y *sesiones de mentoría* con enfoque práctico.
+- *Desarrolla* y *mantiene* *proyectos abiertos* orientados al *aprendizaje colaborativo*.
+- *Publica* artículos y *materiales educativos* en español.
+- *Promueve* la *interoperabilidad* y la *libertad de elección tecnológica*.
+- *Apoya* proyectos de *Software Libre* y *Código Abierto* mediante *colaboración comunitaria*.
 
-------
-
-*(es)*
-*Cyber Code Syndicate (CCS)* es una comunidad inclusiva dedicada a impulsar la *libertad del software* y el conocimiento abierto. La inclusión, en este contexto, se refiere a construir Software Libre que pueda coexistir e integrarse con software de Código Abierto y Propietario, eliminando la exclusividad impuesta por el dogmatismo de las licencias. Compartimos recursos técnicos, publicamos investigaciones y artículos, y organizamos eventos enfocados en el software y la creación digital. CCS promueve el desarrollo ético, la autonomía personal y la adopción de software confiable en la práctica cotidiana.
-
-Nuestra filosofía:
-=Libertad, Colaboración, Documentación y Autonomía.=
-Empoderamos a todos para aprender, modificar y compartir software, promoviendo un entorno de desarrollo ético y conocimiento abierto.
-
-CCS se fundamenta en los principios centrales promovidos por el movimiento de *Software Libre*. Sin embargo, mantiene una postura crítica frente a la aplicación históricamente dogmática de esos principios, especialmente cuando las restricciones de licencias impiden la interoperabilidad. La comunidad se enfoca en preservar la libertad del usuario mientras promueve la integración práctica entre diferentes ecosistemas de software.
-
-* Enfoque
-- Promover los principios del *Software Libre* y el desarrollo ético de software en comunidades de habla inglesa e hispana.
-- Desarrollar proyectos de *Software Libre y de Código Abierto*, publicar tutoriales y artículos, y ofrecer documentación accesible para todos los niveles de experiencia.
-- Fomentar la *colaboración* y la interoperabilidad entre plataformas y paradigmas, apoyando explícitamente la integración de *Software Libre* con software de *Código Abierto* y *Propietario*, sin imponer exclusividad.
-- Impulsar el *aprendizaje continuo*, buenas prácticas de transparencia y una comunicación abierta entre los miembros.
+* Cómo participar
+*CCS* es una *comunidad abierta y flexible*. Puedes:
+- *Comenzar* leyendo el [[#community_paper][documento/paper principal]] y el *código de conducta*.
+- *Explorar* los proyectos disponibles.
+- *Proponer* ideas, *abrir issues*, ofrecer *revisiones* o sugerir *temas para talleres*.
+- *Unirte* a eventos o *solicitar mentoría* si buscas *acompañamiento práctico*.
 
 * Metas
-1. Ampliar el acceso a software confiable a través de una participación abierta e inclusiva.
-2. Defender estándares éticos en el software, respetando la privacidad del usuario, la autonomía y las prácticas de desarrollo transparente.
-3. Ofrecer recursos de alta calidad: guías, proyectos colaborativos, investigación y oportunidades de aprendizaje práctico.
-4. Crear herramientas y soluciones que respeten la elección personal y apoyen la innovación sin barreras.
+1. *Expandir* el acceso a *materiales de calidad* en español.
+2. *Ofrecer* un *programa de mentorías* sostenido y *replicable*.
+3. *Desarrollar* *proyectos didácticos* que sirvan como *referencia práctica*.
+4. *Facilitar* la *adopción responsable* de software en *contextos mixtos* /(open/proprietary)/.
 
-* Visión
-*Cyber Code Syndicate (CCS)* reinventa la libertad del software para el mundo actual, inspirando colaboración significativa y progreso impulsado por la comunidad.
+* Gobernanza y Licencias
+- *CCS* es una *comunidad abierta y colaborativa*. Las *decisiones* son *públicas* y se registran en los *repositorios y foros*.
+- Los *contenidos* y *proyectos* pueden publicarse bajo *distintas licencias* según el autor o proyecto. *Recomendamos* licencias que fomenten la *transparencia* y la *reutilización*, respetando siempre la *libertad de elección* de los contribuidores.
 
-Permitimos que todos los participantes exploren, creen y compartan software libremente, demostrando que la libertad del software puede coexistir con diversos modelos de licenciamiento mediante el desarrollo ético y el conocimiento abierto.
+* Recursos & Lectura adicional
+:PROPERTIES:
+:CUSTOM_ID: community_paper
+:END:
+Aquí encontrarás información detallada sobre el *enfoque*, la *misión* y los *principios* de la comunidad, así como el marco conceptual que guía cómo *construimos y colaboramos* en el software:
+
+- *Cristian D. Moreno – Kyonax.* (2025). /Cyber Code Syndicate (CCS): Building an Ethical and Inclusive Coding Community / Construyendo una Comunidad de Programación Ética e Inclusiva/. https://doi.org/10.5281/zenodo.17994539
+- Este documento se encuentra disponible en *inglés*: [[./README-EN.org][README (English version)]].
+
+* Cierre / Invitación
+*Cyber Code Syndicate* es un *espacio abierto* para *aprender*, *construir* y *mejorar software* de forma *consciente y responsable*. Si te interesa *aprender haciendo*, *compartir conocimiento*, *colaborar con otras personas* y *desarrollar software* que respete a quienes lo usan, estás *invitado a participar*.
+
+No importa tu *nivel de experiencia* ni las *herramientas* que uses. Puedes *aprender*, *proponer ideas*, *contribuir a proyectos*, *mejorar documentación* o simplemente *formar parte del diálogo*. *CCS* existe para *acompañar el crecimiento técnico y ético* de quienes construyen tecnología.
